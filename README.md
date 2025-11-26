@@ -1,10 +1,12 @@
 ## Hello there! ☁
 
-👋 Hi there! I'm a career switcher who transitioned from business consulting to tech and it's been an exciting ride! My journey began with self-learning to code and later completed a cloud administrator bootcamp, which opened the door to my first tech role as a Junior Infrastructure Engineer at The Royal Opera House. With +3 years of hands on cloud experience, I’ve supported AWS and Azure environments, written automation scripts for cloud deployments, and focused on building secure, reliable, and cost-effective infrastructure.
+Cloud Engineer with 3+ years of experience across Azure, AWS, and hybrid infrastructures, specialising in automation, identity security, and Infrastructure as Code. I transitioned into tech from a business and consulting background, which gives me a unique ability to translate complex technical challenges into clear, business-aligned solutions.
 
-I possess a comprehensive understanding of the business landscape, allowing me to collaborate closely with senior level, globally situated peers across various lines of business, and effectively convey technical concepts to both technical and non-technical stakeholders, bridging the gap between business and technology, to deliver solutions that not only meet technical requirements but also align with overarching business objectives, providing innovative and effective solutions that enable clients to achieve their business outcomes. 
+At the Royal Opera House, I’ve deployed and automated cloud environments, improved infrastructure reliability, strengthened cloud security, and reduced operational overhead using Terraform, PowerShell, Azure Automation, Logic Apps, and modern identity governance. My work has supported 500+ endpoints, multi-cloud environments, large-scale migrations, and automation initiatives that reduced both costs and manual effort.
 
-I’m especially interested in cloud automation, infrastructure as code, and finding smart ways to make systems more efficient and scalable. I'm passionate about learning, growing, and contributing to projects that make a real impact. It’s been a great journey so far and I’m just getting started 🚀☁️.
+I’m particularly focused on cloud automation, operational efficiency, and scalable architecture—while expanding my skills in Python, data analysis, and applied machine learning to move toward AI-augmented cloud engineering.
+
+I’m passionate about solving real problems through automation, building secure and resilient systems, and working with teams to deliver cloud solutions that improve performance, reduce friction, and drive meaningful business outcomes.
 
 
 ## 💼  Things that I'm currently working on:
